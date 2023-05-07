@@ -10,3 +10,7 @@ Tento soubor obsahuje třídu `Chain`, která reprezentuje blockchain. Třída `
 
 ## index.php
 Tento soubor vytváří instanci třídy `Chain`, vytváří instanci `Block` a přidává blok do blockchainu. Poté ověřuje, zda je blok platný.
+
+## UML
+
+![alt text](https://github.com/Blikyy/BlockChain/blob/main/UML.drawio.png)
