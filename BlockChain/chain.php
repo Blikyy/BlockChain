@@ -37,10 +37,6 @@ class Chain{
         }
         return true;
     }
-    
-    
-    
-    
 }
 
 ?>
